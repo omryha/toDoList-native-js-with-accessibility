@@ -6,4 +6,4 @@
 6. Only ONE <h1> per page
 7. Use tags with meaning instead of div's
 8. outline - don't remove it if you don't have another plan for the hovering
-9. place some labels off the screen just for screen readers to be able to read 
+9. place some labels off the screen just for screen readers to be able to read
