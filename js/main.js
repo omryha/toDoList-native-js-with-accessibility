@@ -3,7 +3,6 @@ import ToDoItem from './todoItem.js';
 
 const toDoList = new ToDoList();
 
-// Launch app
 document.addEventListener('readystatechange', (event) => {
   if (event.target.readyState === 'complete') {
     initApp();
